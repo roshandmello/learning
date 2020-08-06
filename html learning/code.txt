@@ -1,0 +1,28 @@
+<p> = paragarph
+<h1> to <h7> = heading
+
+sentence
+========
+<p style>
+1. font-size: px,em
+2. colour: (any colour)
+
+bold text
+==========
+<strong style="code;">
+1. background-color: (any colour)
+2. padding: 0 5px
+3. color: (any colour)
+
+image screen
+=============
+<img scr="link">
+<alt="smiley">
+
+
+table 
+
+<table class="any text">
+<tbody>
+<tr>
+<td>
